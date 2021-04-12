@@ -1,0 +1,264 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://matjenin.gitee.io/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/120.jpg",
+                    "path": "images/120.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/141.jpg",
+                    "path": "images/141.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/12.png",
+                    "path": "images/12.png"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/145.jpg",
+                    "path": "images/145.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/144.jpg",
+                    "path": "images/144.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/143.jpg",
+                    "path": "images/143.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/142.jpg",
+                    "path": "images/142.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/140.jpg",
+                    "path": "images/140.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/139.jpg",
+                    "path": "images/139.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/138.jpg",
+                    "path": "images/138.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/134.jpg",
+                    "path": "images/134.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/137.jpg",
+                    "path": "images/137.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/135.jpg",
+                    "path": "images/135.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/medias/featureimages1/136.jpg",
+                    "path": "images/136.jpeg"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/jquery/jquery.min.js",
+                    "path": "js/jquery.min.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/js/search.js",
+                    "path": "js/search.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/materialize/materialize.min.js",
+                    "path": "js/materialize.min.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/masonry/masonry.pkgd.min.js",
+                    "path": "js/masonry.pkgd.min.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/aos/aos.js",
+                    "path": "js/aos.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/scrollprogress/scrollProgress.min.js",
+                    "path": "js/scrollProgress.min.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/lightGallery/js/lightgallery-all.min.js",
+                    "path": "js/lightgallery-all.min.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/js/matery.js",
+                    "path": "js/matery.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/others/clicklove.js",
+                    "path": "js/clicklove.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/others/busuanzi.pure.mini.js",
+                    "path": "js/busuanzi.pure.mini.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/background/ribbon-refresh.min.js",
+                    "path": "js/ribbon-refresh.min.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/background/ribbon-dynamic.js",
+                    "path": "js/ribbon-dynamic.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/instantpage/instantpage.js",
+                    "path": "js/instantpage.js"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/awesome/css/all.css",
+                    "path": "css/all.css",
+                    "children": [
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-brands-400.svg#fontawesome",
+                            "path": "images/fa-brands-400.svg"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-regular-400.svg#fontawesome",
+                            "path": "images/fa-regular-400.svg"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-solid-900.eot",
+                            "path": "fonts/fa-solid-900.eot"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/awesome/webfonts/fa-solid-900.svg#fontawesome",
+                            "path": "images/fa-solid-900.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/materialize/materialize.min.css",
+                    "path": "css/materialize.min.css"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/aos/aos.css",
+                    "path": "css/aos.css"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/animate/animate.min.css",
+                    "path": "css/animate.min.css"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/libs/lightGallery/css/lightgallery.min.css",
+                    "path": "css/lightgallery.min.css",
+                    "children": [
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/fonts/lg.eot?n1z373",
+                            "path": "fonts/lg_1.eot"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/fonts/lg.eot?#iefixn1z373",
+                            "path": "fonts/lg.eot"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/fonts/lg.woff?n1z373",
+                            "path": "fonts/lg.woff"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/fonts/lg.ttf?n1z373",
+                            "path": "fonts/lg.ttf"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/fonts/lg.svg?n1z373#lg",
+                            "path": "images/lg.svg"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/img/vimeo-play.png",
+                            "path": "images/vimeo-play.png"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/img/video-play.png",
+                            "path": "images/video-play.png"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/img/youtube-play.png",
+                            "path": "images/youtube-play.png"
+                        },
+                        {
+                            "url": "https://matjenin.gitee.io/libs/lightGallery/img/loading.gif",
+                            "path": "images/loading.gif"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://matjenin.gitee.io/css/matery.css",
+                    "path": "css/matery.css"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/css/my.css",
+                    "path": "css/my.css"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/matjenin/css/prism-solarizedlight.css",
+                    "path": "css/prism-solarizedlight.css"
+                },
+                {
+                    "url": "https://matjenin.gitee.io/favicon1.png",
+                    "path": "images/favicon1.png"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
